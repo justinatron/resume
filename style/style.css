@@ -1,0 +1,16 @@
+
+body {
+    background-color: #ffd4e9;
+    margin: 0;
+}
+
+p{
+    line-height: 1.8;
+}
+
+.arch-photo {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 150px 150px 0 0; 
+}
